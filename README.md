@@ -3,7 +3,6 @@
 <div align="center">
 
 [![MLWare '26](https://img.shields.io/badge/MLWare%20'26-Sherlock%20Files-1A56DB?style=for-the-badge&logo=target&logoColor=white)](https://www.kaggle.com/competitions/ml-ware-26-sherlock-files)
-[![Kendall Tau](https://img.shields.io/badge/Kendall%20τ-0.65%E2%80%930.70-0D9488?style=for-the-badge&logo=chartdotjs&logoColor=white)](#results)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
@@ -34,13 +33,13 @@ The global timeline then emerges from aggregating these micro-decisions using **
 
 | Metric | Value |
 |--------|-------|
-| Training videos | 5,000 |
-| Test videos | 100 |
+| Training videos | 5,611 |
+| Test videos | 297 |
 | Frames per video | 5 – 150 (avg ~106) |
 | Training pairs generated | ~1.5M |
 | Per-frame feature dim | 2,063-d (ResNet50 + Flow) |
 | Pairwise feature dim | 527-d |
-| Expected Kendall τ | **0.65 – 0.70** |
+| Expected Kendall τ | **0.25 – 0.30** |
 
 ---
 
